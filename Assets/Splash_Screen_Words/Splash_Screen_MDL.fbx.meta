@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 8f74af9f1e8b640479279e49fe253748
+timeCreated: 1547730930
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: AESENAL
+    100002: Astro
+    100004: Ball
+    100006: Click
+    100008: Live
+    100010: Liverpool
+    100012: On
+    100014: //RootNode
+    100016: Subscribe
+    100018: The
+    100020: This
+    100022: To
+    100024: VS
+    100026: Weekend
+    400000: AESENAL
+    400002: Astro
+    400004: Ball
+    400006: Click
+    400008: Live
+    400010: Liverpool
+    400012: On
+    400014: //RootNode
+    400016: Subscribe
+    400018: The
+    400020: This
+    400022: To
+    400024: VS
+    400026: Weekend
+    2300000: AESENAL
+    2300002: Astro
+    2300004: Ball
+    2300006: Click
+    2300008: Live
+    2300010: Liverpool
+    2300012: On
+    2300014: Subscribe
+    2300016: The
+    2300018: This
+    2300020: To
+    2300022: VS
+    2300024: Weekend
+    3300000: AESENAL
+    3300002: Astro
+    3300004: Ball
+    3300006: Click
+    3300008: Live
+    3300010: Liverpool
+    3300012: On
+    3300014: Subscribe
+    3300016: The
+    3300018: This
+    3300020: To
+    3300022: VS
+    3300024: Weekend
+    4300000: Liverpool
+    4300002: VS
+    4300004: AESENAL
+    4300006: Live
+    4300008: On
+    4300010: Astro
+    4300012: This
+    4300014: Weekend
+    4300016: Click
+    4300018: The
+    4300020: Ball
+    4300022: To
+    4300024: Subscribe
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: d13bea9c1e94c4749a946705dded2969, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

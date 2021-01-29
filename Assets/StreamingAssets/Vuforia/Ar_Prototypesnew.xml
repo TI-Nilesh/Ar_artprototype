@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MARKER_IMAGE_2" size="0.100000 0.140298" />
+    <ImageTarget name="HuggiesUltraPants_XXL32" size="0.100000 0.171622" />
+    <ImageTarget name="HuggiesUltraPants_XL38" size="0.100000 0.157676" />
+    <ImageTarget name="HuggiesUltraPants_M56" size="0.100000 0.125556" />
+    <ImageTarget name="HuggiesUltraPants_L44" size="0.100000 0.141544" />
+    <ImageTarget name="HuggiesUltra_S4402" size="0.100000 0.141544" />
+    <ImageTarget name="HuggiespackshotRegular_render_L" size="0.100000 0.141315" />
+    <ImageTarget name="Huggiespackshot_Regular_render_XXL" size="0.100000 0.215924" />
+    <ImageTarget name="Huggiespackshot_Regular_render_X" size="0.100000 0.156436" />
+    <ImageTarget name="Huggiespackshot_Regular_render_M" size="0.100000 0.113559" />
+    <ImageTarget name="HuggiesDry_XXL40_3D" size="0.100000 0.229518" />
+    <ImageTarget name="HD_S_272" size="0.100000 0.141544" />
+    <ImageTarget name="HD_NB_272" size="0.100000 0.141544" />
+    <ImageTarget name="BEERMAT_MARKER_IMAGE_5" size="0.100000 0.100000" />
+    <ImageTarget name="BAGHUGGIESULTRAGOLDNB7801" size="0.100000 0.098092" />
+    <ImageTarget name="BAGHUGGIESDRYM6601" size="0.100000 0.141544" />
+    <ImageTarget name="BAG_HUGGIES_DRYL6001" size="0.100000 0.141544" />
+  </Tracking>
+</QCARConfig>

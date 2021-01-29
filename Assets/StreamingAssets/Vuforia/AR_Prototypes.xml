@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MARKER_IMAGE_2" size="1.000000 1.402979" />
+    <ImageTarget name="BEERMAT_MARKER_IMAGE_5" size="1.000000 1.000000" />
+    <ImageTarget name="BEERMAT_MARKER_IMAGE_4" size="1.000000 1.002703" />
+    <ImageTarget name="HuggiesUltraPants_XXL32" size="1.000000 1.716216" />
+    <ImageTarget name="HuggiesUltraPants_XL38" size="1.000000 1.576764" />
+    <ImageTarget name="HuggiesUltraPants_M56" size="1.000000 1.255556" />
+    <ImageTarget name="HuggiesUltraPants_L44" size="1.000000 1.415441" />
+    <ImageTarget name="Huggiespackshot_Regular_render_XXL" size="1.000000 2.159236" />
+    <ImageTarget name="Huggiespackshot_Regular_render_X" size="1.000000 1.564356" />
+    <ImageTarget name="Huggiespackshot_Regular_render_S" size="1.000000 1.093878" />
+    <ImageTarget name="Huggiespackshot_Regular_render_M" size="1.000000 1.135593" />
+    <ImageTarget name="HuggiespackshotRegular_render_L" size="1.000000 1.413146" />
+    <ImageTarget name="HuggiesUltra_S4402" size="1.000000 1.415441" />
+    <ImageTarget name="BAGHUGGIESULTRAGOLDNB7801" size="1.000000 0.980916" />
+    <ImageTarget name="HuggiesDry_XXL40_3D" size="1.000000 2.295181" />
+    <ImageTarget name="BAGHUGGIESDRYXL4801" size="1.000000 1.415441" />
+    <ImageTarget name="BAGHUGGIESDRYM6601" size="1.000000 1.415441" />
+    <ImageTarget name="BAG_HUGGIES_DRYL6001" size="1.000000 1.415441" />
+    <ImageTarget name="HD_S_272" size="1.000000 1.415441" />
+    <ImageTarget name="HD_NB_272" size="1.000000 1.415441" />
+    <ImageTarget name="Astronaut_scaled" size="1.000000 1.728516" />
+    <ImageTarget name="BEERMAT_MARKER_IMAGE_3" size="1.000000 1.000000" />
+    <ImageTarget name="AR_LOGO_Cropped" size="1.000000 0.274662" />
+    <ImageTarget name="BEERMAT_MARKER_IMAGE" size="1.000000 1.000000" />
+    <ImageTarget name="AR_LOGO" size="1.000000 0.693108" />
+  </Tracking>
+</QCARConfig>

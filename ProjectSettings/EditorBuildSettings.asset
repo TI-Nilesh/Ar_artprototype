@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: cdf71a3fd0fb7644fa1de53f1bcac8df
+  - enabled: 1
+    path: Assets/Scenes/Beermat 1.unity
+    guid: 464d2eedb5c074d77b906176466a4e67
+  - enabled: 1
+    path: Assets/Scenes/Huggies 1.unity
+    guid: a066b41b94f9c491a83c0e7dc47855cd
+  - enabled: 1
+    path: Assets/Scenes/Apartment.unity
+    guid: 7c67a2259d51f4b81b9558fa21269bff
+  m_configObjects: {}
